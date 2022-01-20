@@ -3,7 +3,7 @@
 1. git
 
 ```
-git clone --recursive https://github.com/Satori-finance/frontend-amm.git
+git clone --recursive https://github.com/antimatter-dao/futures-amm
 ```
 
 2. install "eslint", "vetur", "supremacy" in vs code. ".vscode/settings.json" has already contain the following rules:
